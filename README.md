@@ -1,14 +1,14 @@
-# python-filter
-filter bad words that Makes it filtering website in iran
-
-<div style="text-align:right;">
+<div dir="rtl" >
  فیلتر کلمات بد فارسی که منجر به فیلتر شدن وب سایت می شود 
   
  
- </div>
+</div>
+
+# python-filter
+filter bad words that Makes it filtering website in iran
  
  how to use:
- 
+<hr> 
  import filter.py to your project
  
  use filter_bad_persian_word(text) function for filtering bad words you should pass text to function
