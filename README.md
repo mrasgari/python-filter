@@ -8,7 +8,7 @@
 filter bad words that Makes it filtering website in iran
  
  # how to use:
-<hr> 
+
 
  import filter.py to your project
  
